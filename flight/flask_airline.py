@@ -1,5 +1,5 @@
 from flask import Flask,render_template,request,Response
-from flight import ap
+from flight import app
 
 #app = Flask(__name__)
 
