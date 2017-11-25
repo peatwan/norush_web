@@ -1,6 +1,6 @@
 from flask import Flask,render_template,request,Response
 from flight import ap
-import numpy
+
 #app = Flask(__name__)
 
 
