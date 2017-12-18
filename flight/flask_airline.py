@@ -32,7 +32,7 @@ def search():
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-    s.connect(('23.102.236.50', 9999))
+    s.connect(('13.94.43.8', 9999))
 
 
     msg={'method':'get','time':time,'origin':origin}
